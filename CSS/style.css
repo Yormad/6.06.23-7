@@ -1,5 +1,5 @@
 body{
-    background-color: #EEEFF1;;
+    background-color: #102e6b;
 }
 
 a{
@@ -51,7 +51,7 @@ h3{
     margin-right: 0;
 }
 .homepageNavButton{
-    color: #34547A;
+    color: #000204;
 }
 
 .conteiner{
@@ -95,11 +95,7 @@ h3{
     margin: 50px 0 0 0;
 }
 .secBlue{
-    background-color: #34547A;
-    
-
-position: absolute;
-width: 1920px;
+background-color: #34547A;
 height: 100px;
 left: 0px;
 background: #34547A;
